@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 require 'csv'
-require_relative 'person.rb'
+require_relative 'person'
 #
 class People
   attr_reader :people
